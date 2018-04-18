@@ -1,4 +1,4 @@
-# Angular4_Observables
+# Angular4_Observables using Behaviour Subject
 
 To run this application, you need nodejs and npm installed on your system. Then, run the following commands from your command prompt:
 
